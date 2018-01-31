@@ -1,2 +1,2 @@
-# ring-clock
+# Ring Clock
 JavaScript Ring Clock
